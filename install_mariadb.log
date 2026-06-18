@@ -1,0 +1,16 @@
+========================================
+Début de l'installation : Thu Jun 18 14:42:17 CEST 2026
+========================================
+[OK]    Mise à jour des paquets réussie
+[OK]    Installation de MariaDB réussie
+[OK]    Service MariaDB démarré
+[OK]    MariaDB activé au démarrage
+[OK]    Sécurisation de MariaDB appliquée
+[OK]    Base de données 'app_interne' créée
+[OK]    Utilisateur 'app_user' créé avec droits sur 'app_interne'
+[OK]    Vérification finale : MariaDB est actif
+[OK]    Vérification : base 'app_interne' présente
+[OK]    Vérification : utilisateur 'app_user' présent
+========================================
+Fin de l'installation : Thu Jun 18 14:43:05 CEST 2026
+========================================
